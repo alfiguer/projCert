@@ -1,2 +1,2 @@
 # projCert
-Certification Project - DevOps Edureka
+Certification Project - DevOps Edureka Training
